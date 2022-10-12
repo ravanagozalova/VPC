@@ -11,5 +11,5 @@ Internet gateway created under name IGW_diagram and attached to VPC that I creat
     - 1 RT-public - edit RT- add routes -0.0.0.0/0 and IGW choosen (route to the internet activated) and subnet assosiations done for public RT+public subnets
     - 2 RT-private - edit RT -add routes - 0.0.0.0/0 and IGW choosen (route to the internet activated) and subnet assosiations done for private RT+private subnets
   NACL-public and NACL-private were created, Inbound and Outbound rules set up.Subnet assosiaction done between them.
-
+2 Security Groups -public and private are created and inbound + outboud rules added.
   
